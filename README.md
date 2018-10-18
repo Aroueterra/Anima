@@ -6,9 +6,11 @@
   SQL http://sqlfiddle.com/
   .Net https://dotnetfiddle.net/
   
-## Web-Design Inspirations
+## Web Development  
+### Web-Design Inspirations
   https://zzzprojects.com/
-## Placeholder
+### Web-Scraping Threads
+  HTML Agility pack https://stackoverflow.com/questions/846994/how-to-use-html-agility-pack
   
 ## Placeholder
   
