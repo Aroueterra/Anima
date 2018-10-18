@@ -5,7 +5,7 @@
 ## Code Online:
   SQL http://sqlfiddle.com/
   .Net https://dotnetfiddle.net/
-  
+  Java Fiddle https://ideone.com/nMmU5Q
 ## Web Development  
 ### Web-Design Inspirations
   https://zzzprojects.com/
