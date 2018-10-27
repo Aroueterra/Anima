@@ -29,10 +29,10 @@
 https://stackoverflow.com/questions/40506382/what-is-the-difference-between-an-orm-and-ado-net
 
 ## Oracle Via ...:
- Dapper
+ > Dapper
 https://stackoverflow.com/questions/38510949/handle-oracle-database-connection-in-dapper 
 https://www.nuget.org/packages/Dapper.Oracle/
- .NET Core
+ > .NET Core
 https://www.devart.com/dotconnect/oracle/
 
 
@@ -42,21 +42,36 @@ https://nugetmusthaves.com/Category/Excel
 ## PDF Functionality:
 https://www.nuget.org/packages/iTextSharp/
 https://github.com/Orpalis/PassportPDF.Tools.WinForm
-Media Functionality:
+
+## Media Functionality:
+
 https://github.com/majorsilence/MPlayerControl
 
 ## UI Functionality:
+
 https://github.com/cecon/winforms-modernui METRO
+
 https://github.com/IgnaceMaes/MaterialSkin Skin Overhaul
+
 https://github.com/tmt242001/TMTControls Various parts
+
 https://github.com/NetDimension/WinForm-ModernUI
+
 https://reactiveui.net/
+
 https://github.com/cefsharp/cefsharp
+
 https://github.com/caioproiete/ookii-dialogs-winforms
 
 ## UI Bits:
 https://github.com/davidegironi/enhancedboxhelpers Boxes
+
 https://github.com/falahati/CircularProgressBar Progress bar
+
 https://github.com/davidegironi/advanceddatagridview DGV
+
 https://github.com/AdamsLair/winforms Color Picker
+
 https://github.com/coderrio/Coderr.Client.WinForms  Exceptions
+
+
