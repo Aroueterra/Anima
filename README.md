@@ -6,7 +6,10 @@
   SQL http://sqlfiddle.com/
   .Net https://dotnetfiddle.net/
   Java Fiddle https://ideone.com/nMmU5Q
+  
+  
 ## Web Development  
+
 ### Web-Design Inspirations
   https://zzzprojects.com/
 ### Web-Scraping Threads
@@ -22,13 +25,13 @@
   
 
 
-### Winform Development
+## Winform Development
 
 
-## ORM Readings:
+### ORM Readings:
 https://stackoverflow.com/questions/40506382/what-is-the-difference-between-an-orm-and-ado-net
 
-## Oracle Via ...:
+### Oracle Via ...:
 
  > Dapper
  
@@ -40,18 +43,18 @@ https://www.nuget.org/packages/Dapper.Oracle/
 https://www.devart.com/dotconnect/oracle/
 
 
-## Excel Functionality:
+### Excel Functionality:
 https://nugetmusthaves.com/Category/Excel
 
-## PDF Functionality:
+### PDF Functionality:
 https://www.nuget.org/packages/iTextSharp/
 https://github.com/Orpalis/PassportPDF.Tools.WinForm
 
-## Media Functionality:
+### Media Functionality:
 
 https://github.com/majorsilence/MPlayerControl
 
-## UI Functionality:
+### UI Functionality:
 
 https://github.com/cecon/winforms-modernui METRO
 
@@ -67,7 +70,8 @@ https://github.com/cefsharp/cefsharp
 
 https://github.com/caioproiete/ookii-dialogs-winforms
 
-## UI Bits:
+### UI Bits:
+
 https://github.com/davidegironi/enhancedboxhelpers Boxes
 
 https://github.com/falahati/CircularProgressBar Progress bar
