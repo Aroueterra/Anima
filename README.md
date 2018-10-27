@@ -25,10 +25,10 @@
 ### Winform Development
 
 
-##ORM Readings:
+## ORM Readings:
 https://stackoverflow.com/questions/40506382/what-is-the-difference-between-an-orm-and-ado-net
 
-##Oracle Via ...:
+## Oracle Via ...:
  Dapper
 https://stackoverflow.com/questions/38510949/handle-oracle-database-connection-in-dapper 
 https://www.nuget.org/packages/Dapper.Oracle/
@@ -36,16 +36,16 @@ https://www.nuget.org/packages/Dapper.Oracle/
 https://www.devart.com/dotconnect/oracle/
 
 
-##Excel Functionality:
+## Excel Functionality:
 https://nugetmusthaves.com/Category/Excel
 
-##PDF Functionality:
+## PDF Functionality:
 https://www.nuget.org/packages/iTextSharp/
 https://github.com/Orpalis/PassportPDF.Tools.WinForm
 Media Functionality:
 https://github.com/majorsilence/MPlayerControl
 
-##UI Functionality:
+## UI Functionality:
 https://github.com/cecon/winforms-modernui METRO
 https://github.com/IgnaceMaes/MaterialSkin Skin Overhaul
 https://github.com/tmt242001/TMTControls Various parts
@@ -54,7 +54,7 @@ https://reactiveui.net/
 https://github.com/cefsharp/cefsharp
 https://github.com/caioproiete/ookii-dialogs-winforms
 
-##UI Bits:
+## UI Bits:
 https://github.com/davidegironi/enhancedboxhelpers Boxes
 https://github.com/falahati/CircularProgressBar Progress bar
 https://github.com/davidegironi/advanceddatagridview DGV
