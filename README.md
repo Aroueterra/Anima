@@ -29,10 +29,14 @@
 https://stackoverflow.com/questions/40506382/what-is-the-difference-between-an-orm-and-ado-net
 
 ## Oracle Via ...:
+
  > Dapper
+ 
 https://stackoverflow.com/questions/38510949/handle-oracle-database-connection-in-dapper 
 https://www.nuget.org/packages/Dapper.Oracle/
+
  > .NET Core
+ 
 https://www.devart.com/dotconnect/oracle/
 
 
