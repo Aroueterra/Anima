@@ -25,8 +25,8 @@
   
 
 
-## Winform Development
-
+## WPF Development
+https://automatetheboringstuff.com/
 
 ### ORM Readings:
 https://stackoverflow.com/questions/40506382/what-is-the-difference-between-an-orm-and-ado-net
@@ -82,4 +82,5 @@ https://github.com/AdamsLair/winforms Color Picker
 
 https://github.com/coderrio/Coderr.Client.WinForms  Exceptions
 
+https://unsplash.com/t/wallpapers Nice wallpapers
 
